@@ -1,0 +1,1 @@
+# Hyprland-illogical-impulse.configs
